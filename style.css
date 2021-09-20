@@ -28,7 +28,7 @@ body {
 	border-radius: 50%;
 	border-bottom: 5px solid rgb(38, 231, 47);
 }
-.loader-circle1 .arc:nth-child(1) {
+.loader-circle .arc:nth-child(1) {
 	animation: rotate1 1.15s linear infinite;
 }
 .loader-circle .arc:nth-child(2) {
